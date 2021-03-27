@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo 'Who are you?'
+
+read who
+
+echo "Hello, $who!"
