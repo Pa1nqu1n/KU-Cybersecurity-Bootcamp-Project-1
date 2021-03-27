@@ -1,0 +1,9 @@
+echo "argument 1 is "$1
+
+if [ -z $2 ];
+then
+echo "argument 2 is empty"
+else
+echo "argument 2 is "$2
+fi
+
