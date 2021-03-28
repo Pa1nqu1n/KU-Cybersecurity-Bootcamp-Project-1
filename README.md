@@ -128,7 +128,7 @@ These Beats allow us to collect the following information from each machine:
 
 The filebeat monitors log files and locations that you specify which is used to see changes and messages from the log files that received commands such as the kill command.
 
-The metricbeat collects and records the metrics and statistics of the operating system and also pulls from the services that are running the server, which allows you to be able to tell the RAM and CPU being used on the web servers at a particular time. 
+The metricbeat collects and records the metrics and statistics of the operating system and also pulls from the services that you are running on the server, which allows you to be able to tell the RAM and CPU being used on the web servers at a particular time. 
 
 
 
