@@ -151,3 +151,10 @@ When it comes to updating, use the /etc/ansible/hosts directory by using the hos
 
 
 The URL that is used to see if the Elk server is up and running is http://40.83.222.230:5601/app/kibana
+
+
+
+
+
+
+
